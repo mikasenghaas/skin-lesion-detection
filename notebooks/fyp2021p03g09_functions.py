@@ -31,7 +31,11 @@ def scatter_data(x1, x2, y, ax=None):
 
 def measure_area_perimeter(mask):
     # Measure area: the sum of all white pixels in the mask image
+    print('hello world')
+    mask = np.array(mask.getdata())
+
     area = np.sum(mask)
+    print(area)
 
     # Measure perimeter: first find which pixels belong to the perimeter.
     struct_el = morphology.disk(1)
