@@ -1,0 +1,263 @@
+commit a4bfee26c39d69f9d6d5a28f7d68e40a12712de7
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Fri Apr 23 12:24:18 2021 +0200
+
+    Added Note for Running the Notebook
+
+commit 90733be49e7d3e16f5114ad50abba6a6327d4e48
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Fri Apr 23 10:48:37 2021 +0200
+
+    Saved Classification Reports
+
+commit ca0bc4fa2bf02dcf4525dd59d667826164e59c60
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Fri Apr 23 10:48:13 2021 +0200
+
+    Final Touches (Added Description)
+
+commit 1444095442a0fee48630dbb5040fb08bc02ac27d
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 22 17:15:38 2021 +0200
+
+    Minor Changes in Structure of Notebooks
+
+commit 13d8e6202c5ef41ed539401d8068459cae955d88
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 22 17:15:15 2021 +0200
+
+    Slight Changes in Computation of Asymmetry
+
+commit 70ebfe77566bd21a95d4a12e2cf2b09def54b25d
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 22 12:40:03 2021 +0200
+
+    Fixed Biased Model through correcting Oversampling
+
+commit c5d59b2333cfeb1d3fed54d22c2594da7ddda32d
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 22 10:59:37 2021 +0200
+
+    Untrack Images and Masks from GitHub
+
+commit f281cd41b09f7fd695645cf4e9fb879681bedbbc
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 22 10:57:51 2021 +0200
+
+    Added Features for External Data
+
+commit f5771a1396163c407ae2d458cd1bd8cf23a085d0
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 22 10:57:29 2021 +0200
+
+    Implemented External Images, Predictive RF Classifier
+
+commit b3546e5afd78e9373dff5eba3736347eb7b2316f
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 16:25:48 2021 +0200
+
+    7th images
+
+commit 9c2ff9f2dd0d777b22d48445753f63734117b434
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 16:21:27 2021 +0200
+
+    images 6
+
+commit d51623625ab70c540e871283d5d4368fb4825302
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 16:14:14 2021 +0200
+
+    5th exteral images
+
+commit 1cedbdfb97bb025b010893b007333c333422b214
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 15:44:00 2021 +0200
+
+    4th section of external images
+
+commit a92abe533f4019b1aff7ded4d42ef76fd9aecd9d
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 15:36:55 2021 +0200
+
+    third set of external images
+
+commit aa5e84ee63f2de13ac9c4cd39b6129004e7e7728
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 15:29:10 2021 +0200
+
+    second set of external images
+
+commit 526a47ea380165fa1edafb1b7dabe985ba1a7604
+Author: Nicola Clark <nici99.nc@gmail.cm>
+Date:   Wed Apr 21 14:55:50 2021 +0200
+
+    first set of external images
+
+commit dda04568d672abd252955560ee9c7878d89bedc5
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 11:55:43 2021 +0000
+
+    added dummy file
+
+commit fe77eeb6fd65229a655fed807ed38b1a179808dd
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 11:54:12 2021 +0000
+
+    implementing google drive integration
+
+commit 2f434c4557c1ee95394e6e9e2bca9cbe337c775b
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 11:53:50 2021 +0000
+
+    minor changes
+
+commit c563c084213ce7a38f4403c9c2f3395de16e21f9
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 11:53:27 2021 +0000
+
+    added first part of external data
+
+commit 1c6874b7458a0f7a92a2556a42b1f32a802a038b
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 07:25:55 2021 +0000
+
+    mika integrated normalisation, feature selection, balancing data and cross validation
+
+commit b33ab27376d32af074b634b9bb49b70473d574dd
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 07:25:16 2021 +0000
+
+    minor changes
+
+commit c6f7c0cd96d34f534a55d3bbe686be709eb5207e
+Author: NicolaClark <niccl@itu.dk>
+Date:   Wed Apr 21 07:24:51 2021 +0000
+
+    delted external images from deepnote
+
+commit 849b0b1bb47cf9bb614e3c759cba3c07575b8c88
+Author: NicolaClark <niccl@itu.dk>
+Date:   Tue Apr 20 17:07:01 2021 +0000
+
+    Group: Added External Data
+
+commit 310360bda66b3eb3c77b5a05097ffe588999306c
+Author: NicolaClark <niccl@itu.dk>
+Date:   Tue Apr 20 17:06:26 2021 +0000
+
+    Group: Added Processed Features and Scaled Features
+
+commit 823deef85ba7e067917b6cbecbd2ed223290107f
+Author: NicolaClark <niccl@itu.dk>
+Date:   Tue Apr 20 17:05:57 2021 +0000
+
+    Group: Implemented Dummy Images, Feature Selection and Model Evaluation
+
+commit 0d348c155c64d82f17818eba25f0ff1326fe2ab1
+Author: NicolaClark <niccl@itu.dk>
+Date:   Fri Apr 16 17:51:03 2021 +0000
+
+    GroupWorkx2UpToStartingToFindGoodFeaturesForKNNModel
+
+commit 3ad71b6ce22303eb0fddba66f61dce70f43323e5
+Author: NicolaClark <niccl@itu.dk>
+Date:   Fri Apr 16 15:11:47 2021 +0000
+
+    addedMoreProcessedImagiesAndStartedWorkOnEvaluatingF
+
+commit 8ca428af1e3fa0534e05c926a3d9a96c17491492
+Author: NicolaClark <niccl@itu.dk>
+Date:   Thu Apr 15 12:40:22 2021 +0000
+
+    Preprocessed Images
+
+commit 19ea6969620a192b203f7b59ae84b446fd74f186
+Author: NicolaClark <niccl@itu.dk>
+Date:   Thu Apr 15 12:39:44 2021 +0000
+
+    Added Features, Computed Features, Built Model
+
+commit bfe929208021d908463a1578508ecb5eb66f0186
+Author: NicolaClark <niccl@itu.dk>
+Date:   Tue Apr 13 12:02:39 2021 +0000
+
+    Added Average Luminance/ Luminance Deviation and Asymmetry Feature
+
+commit c78153a2dc2538e411b87ad1a0b6af59bf16cd35
+Author: NicolaClark <niccl@itu.dk>
+Date:   Fri Apr 9 15:53:24 2021 +0000
+
+    Nicola-LogLogPlot
+
+commit 858d4686f114d66c5b43ccfbf85c121e840262eb
+Author: NicolaClark <niccl@itu.dk>
+Date:   Fri Apr 9 14:52:12 2021 +0000
+
+    GroupExtractedAndPlottedSomeFeatures
+
+commit e5b9737234416f2487d2036aa7146f84f4a4f4e6
+Author: NicolaClark <niccl@itu.dk>
+Date:   Thu Apr 8 10:18:36 2021 +0000
+
+    mika,hugo,nicola worked on ex1 mainly inspection of images
+
+commit a8a5f6a8c779604cde61c0603244cfebf2db5c33
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 8 09:45:30 2021 +0200
+
+    Added Requirements from 'pipreqs'
+
+commit c528e0dcb3e09dd7a4ac16675ab869bf24b539de
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 8 07:29:43 2021 +0000
+
+    Setup Initial Notebook Structure
+
+commit eb89010891e4ce02d1b1389172a902680cb532a8
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Thu Apr 8 07:28:47 2021 +0000
+
+    Small Changes in Filestructure
+
+commit 5852aefab17bbd13e08c2c6118ab38e6a71909eb
+Author: NicolaClark <niccl@itu.dk>
+Date:   Tue Apr 6 13:46:31 2021 +0000
+
+    nicola added notebooks on deepnote
+
+commit 405985204f764b49a6a2651ddf737c99abcd2c9b
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Tue Apr 6 14:17:51 2021 +0200
+
+    Updated README
+
+commit 98955ede34fc96d3320933175f1506f37bffd295
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Tue Apr 6 14:01:44 2021 +0200
+
+    Adjusted Filestructure in Data
+
+commit 2137215c3030fee6f3ac158d36931e418c1aeebb
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Tue Apr 6 14:00:15 2021 +0200
+
+    Added Template Code
+
+commit b11f3f423daa1317efc95bd1eba96d3f99a2d3d4
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Tue Apr 6 11:31:29 2021 +0200
+
+    Added .gitignore
+
+commit 958b2d48d73ef926821dcefdd3ce206c8015bc2d
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Tue Apr 6 10:36:01 2021 +0200
+
+    Added Data
+
+commit 4ab6b71e09ce18f7961cb3a22490b7dc670a8bf8
+Author: Jonas-Mika Senghaas <accounts@jonassenghaas.de>
+Date:   Tue Apr 6 10:34:40 2021 +0200
+
+    Initial Commit
